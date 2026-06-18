@@ -11,7 +11,7 @@ A command-line game built in Python where the computer picks a random number and
 
 ## How to run it
 
-Make sure you have Python installed, then run:
+Make sure you have Python installed, then run it and make choices:
 
 ```
 python game.py
@@ -35,4 +35,4 @@ No extra libraries needed. Just Python.
 
 ## Author
 
-Yash Khaire — https://github.com/yashkhaire06
+Yash — https://github.com/yashkhaire06
